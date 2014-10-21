@@ -7,7 +7,7 @@ public class Assertion {
     }
 
     public void defaultIf() {
-        int x = 2;
+        int x = 1;
         if (x == 0) {
             x++;
         } else if (x == 1) {
